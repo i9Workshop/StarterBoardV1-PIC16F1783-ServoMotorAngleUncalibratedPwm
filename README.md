@@ -1,1 +1,4 @@
-# StarterBoardV1-PIC16F1783-SevoMotorAngleUncalibratedPwm
+## Uncalibrated PWM - Sevo Motor Angle
+
+Servo motor angle control using delay to generate PWM.
+<br/>
